@@ -16,5 +16,3 @@ Welcome to the frontend repository of Cara, an e-commerce website where you can 
 - HTML: The standard markup language for creating web pages
 - CSS: The language used for styling web pages
 - JavaScript: Building user interfaces.
-
-## Project Structure
